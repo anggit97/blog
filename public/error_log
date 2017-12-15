@@ -1,0 +1,6 @@
+[01-Jul-2017 06:39:37 UTC] PHP Fatal error:  Interface 'Illuminate\Contracts\Routing\Middleware' not found in /home/anggitprayogo/blog/app/Http/Middleware/CheckForMaintenanceMode.php on line 9
+[01-Jul-2017 06:39:58 UTC] PHP Fatal error:  Interface 'Illuminate\Contracts\Routing\Middleware' not found in /home/anggitprayogo/blog/app/Http/Middleware/CheckForMaintenanceMode.php on line 9
+[01-Jul-2017 06:40:05 UTC] PHP Fatal error:  Interface 'Illuminate\Contracts\Routing\Middleware' not found in /home/anggitprayogo/blog/app/Http/Middleware/CheckForMaintenanceMode.php on line 9
+[01-Jul-2017 07:25:50 UTC] PHP Fatal error:  Interface 'Illuminate\Contracts\Routing\Middleware' not found in /home/anggitprayogo/blog/app/Http/Middleware/CheckForMaintenanceMode.php on line 9
+[01-Jul-2017 07:25:54 UTC] PHP Fatal error:  Interface 'Illuminate\Contracts\Routing\Middleware' not found in /home/anggitprayogo/blog/app/Http/Middleware/CheckForMaintenanceMode.php on line 9
+[01-Jul-2017 07:26:46 UTC] PHP Fatal error:  Interface 'Illuminate\Contracts\Routing\Middleware' not found in /home/anggitprayogo/blog/app/Http/Middleware/CheckForMaintenanceMode.php on line 9
